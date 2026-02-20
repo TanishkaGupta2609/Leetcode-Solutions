@@ -1,25 +1,21 @@
 class Solution {
-    List<List<Integer>>sol = new ArrayList<>();
-    public void solve(int i, int []candi,ArrayList<Integer>ans, int t){
-        if(t<0){
-            return;
-        }
-        if(t==0){
-            sol.add(new ArrayList<>(ans));
-            return;
-        }
-        for(int j=i;j<candi.length;j++){
-            if(j==i || candi[j]!=candi[j-1] && t>=0){
-                ans.add(candi[j]);
-                solve(j,candi,ans,t-candi[j]);
-                ans.remove(ans.size()-1);
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<Integer> result=new ArrayList<>();
+        List<List<Integer>> ans=new ArrayList<>();
+        helper(candidates,target,0,result,ans);
+        return ans;
+    }
+    public void helper(int[] nums,int target,int idx,List<Integer> result,List<List<Integer>> ans){
+       
+        if(idx==nums.length){
+            if(target==0){
+             ans.add(new ArrayList<>(result));
             }
         }
-    }
-    public List<List<Integer>> combinationSum(int[] candi, int target) {
-        Arrays.sort(candi);
-        ArrayList<Integer>ans = new ArrayList<>();
-        solve(0,candi,ans,target);
-        return sol;
+        if(idx==nums.length || target<0)return;
+        result.add(nums[idx]);
+        helper(nums,target-nums[idx],idx,result,ans);
+        result.remove(result.size()-1);
+        helper(nums,target,idx+1,result,ans);
     }
 }
