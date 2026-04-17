@@ -2,18 +2,19 @@ class Solution {
     public List<String> letterCombinations(String digits) {
         List<String> ans=new ArrayList<>();
         String[] map={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
-        helper(digits,0,new StringBuilder(),ans,map);
+        helper(ans,new StringBuilder(),digits,map,0);
         return ans;
     }
-    public void helper(String digits,int idx,StringBuilder cur,List<String> ans,String[] map){
+    public void helper(List<String> ans,StringBuilder cur,String digits,String[] map,int idx){
         if(idx==digits.length()){
             ans.add(cur.toString());
             return;
         }
-        String letters=map[digits.charAt(idx)-'0'];
-        for(char ch:letters.toCharArray()){
+        String letter=map[digits.charAt(idx)-'0'];
+        for(int i=0;i<letter.length();i++){
+            char ch=letter.charAt(i);
             cur.append(ch);
-            helper(digits,idx+1,cur,ans,map);
+            helper(ans,cur,digits,map,idx+1);
             cur.deleteCharAt(cur.length()-1);
         }
     }
