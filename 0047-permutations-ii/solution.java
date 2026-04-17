@@ -1,28 +1,25 @@
 class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
+        Arrays.sort(nums);
         List<List<Integer>> ans=new ArrayList<>();
-        helper(nums,0,ans);
+        List<Integer> cur=new ArrayList<>();
+        boolean[] used=new boolean[nums.length];
+        helper(ans,cur,nums,used);
         return ans;
     }
-    public void swap(int[] nums,int i,int j){
-        int temp=nums[i];
-        nums[i]=nums[j];
-        nums[j]=temp;
-    }
-    public void helper(int[] nums,int idx,List<List<Integer>> ans){
-        if(idx==nums.length){
-           List<Integer> temp=new ArrayList<>();
-           for(int x:nums)temp.add(x);
-           ans.add(temp);
-           return;
+    public void helper(List<List<Integer>> ans,List<Integer> cur,int[] nums, boolean[] used){
+        if(cur.size()==nums.length){
+            ans.add(new ArrayList<>(cur));
+            return;
         }
-        HashSet set=new HashSet<>();
-        for(int i=idx;i<nums.length;i++){
-            if(set.contains(nums[i]))continue;
-            set.add(nums[i]);
-            swap(nums,idx,i);
-            helper(nums,idx+1,ans);
-            swap(nums,idx,i);
+        for(int i=0;i<nums.length;i++){
+            if(used[i])continue;
+            if(i>0 && nums[i]==nums[i-1] && !used[i-1])continue;
+            used[i]=true;
+            cur.add(nums[i]);
+            helper(ans,cur,nums,used);
+            cur.remove(cur.size()-1);
+            used[i]=false;
         }
     }
 }
