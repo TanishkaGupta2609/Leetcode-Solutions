@@ -16,13 +16,14 @@
 class Solution {
     int maxx=0;
     public int diameterOfBinaryTree(TreeNode root) {
-       diameter(root);
-       return maxx;
-    }
-    public int diameter(TreeNode root){
         if(root==null)return 0;
-        int lh=diameter(root.left);
-        int rh=diameter(root.right);
+        helper(root);
+        return maxx;
+    }
+    public int helper(TreeNode root){
+        if(root==null)return 0;
+        int lh=helper(root.left);
+        int rh=helper(root.right);
         maxx=Math.max(maxx,lh+rh);
         return 1+Math.max(lh,rh);
     }
