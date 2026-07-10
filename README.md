@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0046-permutations) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
