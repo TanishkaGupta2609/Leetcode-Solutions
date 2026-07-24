@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -108,5 +109,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
