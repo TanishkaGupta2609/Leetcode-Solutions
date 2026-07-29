@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0389-find-the-difference](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0389-find-the-difference](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
