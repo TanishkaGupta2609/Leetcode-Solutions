@@ -23,14 +23,15 @@ class Solution {
         }
         int maxLen=0;
         while(r<n){
-            if(hash[s.charAt(r)]!=-1){
-                if(hash[s.charAt(r)]>=l){
-                    l=hash[s.charAt(r)]+1;
+            char ch=s.charAt(r);
+            if(hash[ch]!=-1){
+                if(hash[ch]>=l){
+                    l=hash[ch]+1;
                 }
             }
             int len=r-l+1;
             maxLen=Math.max(len,maxLen);
-            hash[s.charAt(r)]=r;
+            hash[ch]=r;
             r++;
         }
         return maxLen;
