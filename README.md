@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
 | ------- |
