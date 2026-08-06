@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0089-gray-code) |
 ## Binary Search
 |  |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
