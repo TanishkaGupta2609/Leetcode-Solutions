@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
