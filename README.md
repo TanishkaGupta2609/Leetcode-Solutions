@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0860-lemonade-change) |
+| [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
 | ------- |
@@ -275,4 +279,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
