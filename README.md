@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1901-find-a-peak-element-ii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [1563-stone-game-v](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 ## Stack
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1563-stone-game-v](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
