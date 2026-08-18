@@ -16,9 +16,9 @@ class Solution {
             }
             l++;
            }
-           r++;
+           
            ans+=r-l+1;
-            
+           r++; 
         }
         return ans;
     }
