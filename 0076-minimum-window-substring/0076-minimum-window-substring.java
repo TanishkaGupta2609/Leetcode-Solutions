@@ -1,37 +1,33 @@
 class Solution {
     public String minWindow(String s, String t) {
-        int[] freq = new int[128];
-
-        for (char c : t.toCharArray()) {
-            freq[c]++;
+        int[] hash=new int[256];
+        for(int i=0;i<t.length();i++){
+            hash[t.charAt(i)]++;
         }
-
-        int left = 0, count = t.length();
-        int minLen = Integer.MAX_VALUE;
-        int start = 0;
-
-        for (int right = 0; right < s.length(); right++) {
-            if (freq[s.charAt(right)] > 0) {
-                count--;
+        int l=0;
+        int r=0;
+        int startIdx=-1;
+        int minLen=Integer.MAX_VALUE;
+        int cnt=0;
+        while(r<s.length()){
+            if(hash[s.charAt(r)]>0){
+                cnt++;
             }
-            freq[s.charAt(right)]--;
-
-            while (count == 0) {
-                if (right - left + 1 < minLen) {
-                    minLen = right - left + 1;
-                    start = left;
+            hash[s.charAt(r)]--;
+            while(cnt==t.length()){
+                if(r-l+1<minLen){
+                    minLen=r-l+1;
+                    startIdx=l;
                 }
-
-                freq[s.charAt(left)]++;
-
-                if (freq[s.charAt(left)] > 0) {
-                    count++;
+                hash[s.charAt(l)]++;
+                if(hash[s.charAt(l)]>0){
+                    cnt--;
                 }
-
-                left++;
+                l++;
             }
+            
+            r++;
         }
-
-        return minLen == Integer.MAX_VALUE ? "" : s.substring(start, start + minLen);
+        return startIdx==-1?"":s.substring(startIdx,startIdx+minLen);
     }
 }
