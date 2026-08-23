@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
