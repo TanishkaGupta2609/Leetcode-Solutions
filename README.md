@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Backtracking
 |  |
 | ------- |
