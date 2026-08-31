@@ -1,7 +1,6 @@
 class Solution {
     public boolean carPooling(int[][] trips, int capacity) {
         int[] passengers=new int[1001];
-        int n=trips.length;
         for(int[] trip:trips){
             int cnt=trip[0];
             int from=trip[1];
