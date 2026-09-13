@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
