@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0089-gray-code) |
+| [0836-rectangle-overlap](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1927-sum-game) |
@@ -415,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
