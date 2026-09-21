@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2487-remove-nodes-from-linked-list](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
