@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1901-find-a-peak-element-ii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+| [2104-sum-of-subarray-ranges](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -113,12 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sorting
 |  |
