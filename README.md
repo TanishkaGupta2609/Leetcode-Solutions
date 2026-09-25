@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -473,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
