@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0089-gray-code) |
+| [0301-remove-invalid-parentheses](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Minimax
 |  |
