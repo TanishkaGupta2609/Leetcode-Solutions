@@ -1,0 +1,31 @@
+class Solution {
+    public double myPow(double x, int n) {
+        long N = n;
+
+        if (N < 0) {
+            N = -N;
+        }
+
+        double ans = helper(x, N);
+
+        if (n < 0) {
+            return 1.0 / ans;
+        }
+
+        return ans;
+    }
+
+    public double helper(double x, long n) {
+        if (n == 0) {
+            return 1.0;
+        }
+
+        double half = helper(x, n / 2);
+
+        if (n % 2 == 0) {
+            return half * half;
+        }
+
+        return x * half * half;
+    }
+}
