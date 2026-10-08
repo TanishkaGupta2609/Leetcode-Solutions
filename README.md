@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0836-rectangle-overlap](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [2487-remove-nodes-from-linked-list](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
