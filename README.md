@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3525-find-x-value-of-array-ii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
