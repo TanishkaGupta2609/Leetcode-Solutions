@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0214-shortest-palindrome](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Matrix
 |  |
@@ -591,20 +593,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
