@@ -6,21 +6,20 @@ class Solution {
         while(mid<=high){
             if(nums[mid]==0){
                 swap(nums,mid,low);
-                low++;
                 mid++;
+                low++;
             }
             else if(nums[mid]==2){
-                swap(nums,mid,high);
+                 swap(nums,mid,high);
                 high--;
-            }
-            else{
+            }else{
                 mid++;
             }
         }
-     }
-     public void swap(int[] nums,int a,int b){
+    }
+    public void swap(int[] nums,int a,int b){
         int temp=nums[a];
         nums[a]=nums[b];
         nums[b]=temp;
-     }
+    }
 }
