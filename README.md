@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
