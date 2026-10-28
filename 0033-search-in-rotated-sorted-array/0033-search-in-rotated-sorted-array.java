@@ -4,18 +4,17 @@ class Solution {
         int e=nums.length-1;
         while(s<=e){
             int mid=s+(e-s)/2;
-            if(nums[mid]==target){
+            if(target==nums[mid]){
                 return mid;
             }
-            if(nums[s]<=nums[mid]){
-                if(nums[s]<=target && target<nums[mid]){
+            else if(nums[s]<=nums[mid]){
+                if(target>=nums[s] && nums[mid]>target){
                     e=mid-1;
                 }else{
                     s=mid+1;
                 }
-            }
-            else{
-                 if(target>nums[mid] && target<=nums[e]){
+            }else{
+                if(target>nums[mid] && target<=nums[e]){
                     s=mid+1;
                 }else{
                     e=mid-1;
