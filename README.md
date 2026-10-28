@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Matrix
 |  |
@@ -630,10 +632,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
