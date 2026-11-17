@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
