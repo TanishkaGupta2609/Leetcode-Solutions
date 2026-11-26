@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3360-stone-removal-game](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3525-find-x-value-of-array-ii](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/TanishkaGupta2609/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Algorithm X
 |  |
